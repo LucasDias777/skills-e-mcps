@@ -1,0 +1,12 @@
+# Estado local da skill ligar-ao-codex (ids dos seus chats do Codex e o padrão de modelo)
+estado.json
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Saídas de teste e de trabalho
+testes/saida/
+out/
+node_modules/
